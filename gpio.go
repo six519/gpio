@@ -1,3 +1,14 @@
+/*
+	Install the library
+	-------------------
+
+	go get github.com/six519/gpio
+
+	Sample usage
+	------------
+
+	Go to https://github.com/six519/gpio
+*/
 package gpio
 
 import (
