@@ -3,6 +3,11 @@ gpio
 
 Write to Raspberry Pi GPIO Pins Go Library
 
+Installation
+============
+
+go get github.com/six519/gpio
+
 Sample Usage
 ============
 ::
